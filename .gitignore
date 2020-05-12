@@ -1,0 +1,9 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FruitShopConsole/obj
+/FruitShopTests/bin/Debug/netcoreapp3.0
+/FruitShopTests/obj
+/_NCrunch_FruitShop
